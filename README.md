@@ -61,7 +61,7 @@ The strategy adopted was the following:
 
 **Data Description:** I searched for NAs, checked data types (and adapted some of them for analysis) and presented a statistical description.
 
-**Exploratory Data Analysis:** I performed univariate, bivariate and multivariate data analysis, obtaining statistical properties of each of them, correlations and testing hypothesis (the most important of them are detailed in the following section).
+**Exploratory Data Analysis:** I performed univariate, bivariate and multivariate data analysis, obtaining statistical properties of each of them, correlations and testing hypothesis.
 
 **Feature Engineering:** New features were created to make possible a more thorough analysis.
 
