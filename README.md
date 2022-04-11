@@ -15,7 +15,8 @@ Business Model: Product sales.**
 **Problem**
 
 The CFO wanted to reinvest in all stores, therefore, he need to know how much revenue each store will bring so he can invest it now.
-Goal
+
+**Goal**
 
 **Predict the daily sales of all stores for up to six weeks in advance.**
 
